@@ -18,12 +18,10 @@ empreendimento se tornou fundamental para o sucesso de empresas, especialmente e
 As encomendas de cento de salgados para eventos e festividades são uma das
 principais fontes de lucro da Lanchonete Da Carminha. Porém, a ausência de
 um sistema automatizado tem gerado desafios, como interrupções no atendimento
-durante horários de pico, falhas na coleta de informações e dificuldade no
+durante horários de pico (entre 17h e 19h), falhas na coleta de informações e dificuldade no
 controle e monitoramento dos pedidos, comprometendo a eficiência e a satisfação
-dos clientes.
-
-A falta de um sistema unificado também dificulta o controle e o monitoramento dos pedidos, o que pode ocasionar falhas na gestão dos processos internos. Dessa forma, um sistema de gerenciamento de
-pedidos para a Lanchonete Da Carminha proporcionaria diversas vantagens,
+dos clientes. Dessa forma, um sistema de gerenciamento de
+pedidos proporcionaria diversas vantagens,
 tais como:
 
 - **Facilidade de acesso:** assim como grandes plataformas, como  Facebook e Twitter, utilizam aplicativos para melhorar a experiência do usuário, a implementação de um sistema próprio garantiria navegação rápida e intuitiva.
