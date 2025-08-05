@@ -373,5 +373,5 @@ Este projeto foi desenvolvido pelos alunos:
   > [GitHub](https://github.com/ThiagopFernandes01)
   >
   > 
-**-Orientador(a): Cristiane Aparecida Lana.**
+**-Orientador(a): Cristiane Aparecida Lana.**  
 **-Co-orientador(a): Carlos Henrique Tavares Brumatti.**
