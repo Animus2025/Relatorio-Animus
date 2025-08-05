@@ -373,5 +373,10 @@ Este projeto foi desenvolvido pelos alunos:
   > [GitHub](https://github.com/ThiagopFernandes01)
   >
   > 
+
+**Disciplina: **ADS 501 - Design de Interação e Projeto Integrador  
+**Curso: ** Análise e Desenvolvimento de Sistemas  
+**Instituição: **Centro Universitário de Viçosa (Univiçosa)
+
 **-Orientador(a): Cristiane Aparecida Lana.**  
 **-Co-orientador(a): Carlos Henrique Tavares Brumatti.**
